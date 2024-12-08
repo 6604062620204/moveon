@@ -6,8 +6,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				Playpen: ['Poppins', 'cursive'],
-				thai: ['Itim', 'cursive']
+				Playpen: ['Prompt', 'cursive']
 			},
 
 			animation: {
